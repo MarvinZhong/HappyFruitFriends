@@ -1,5 +1,3 @@
-//姓名 : 鍾明智
-//學號 : 107213067
 import java.util.Scanner;
 public class Fruits {
     private static void caribuah(int money , int n, int[] fruit ) {
